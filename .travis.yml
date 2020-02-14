@@ -1,8 +1,8 @@
 language: java
 jdk:
- - oraclejdk8
+ - oraclejdk13
 deploy:
  provider: heroku
  api-key:
   secure: $HEROKU_API_KEY
- app: babakbook
+ app: gartanbook
