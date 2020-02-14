@@ -22,6 +22,7 @@ public class HttpRequestTest {
     @Autowired
     private TestRestTemplate restTemplate;
 
+    
     @Test
     public void initialAddressBookShouldBeEmpty() throws Exception {
         assertThat(this.restTemplate.getForObject("http://localhost:" + port + "/book",

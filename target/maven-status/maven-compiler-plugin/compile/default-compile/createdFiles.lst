@@ -1,0 +1,12 @@
+lab\Application.class
+lab\controller\AddressBookController.class
+lab\controller\FormController.class
+lab\service\GreetingService.class
+lab\model\AddressBook.class
+lab\MyWebMvcConfig.class
+lab\controller\BuddyInfoController.class
+lab\repository\BuddyInfoRepository.class
+lab\model\BuddyInfo.class
+lab\repository\AddressBookRepository.class
+lab\ViewConfig.class
+lab\MyWebMvcConfig$1.class

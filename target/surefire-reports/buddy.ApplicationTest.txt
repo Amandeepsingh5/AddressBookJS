@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: buddy.ApplicationTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.877 sec - in buddy.ApplicationTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.518 sec - in buddy.ApplicationTest

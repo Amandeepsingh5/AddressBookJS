@@ -1,0 +1,7 @@
+BuddyInfoControllerTest.class
+buddy\HttpRequestTest.class
+AddressBookControllerTest.class
+AddressBookTest.class
+BuddyInfoTest.class
+buddy\SmokeTest.class
+buddy\ApplicationTest.class
